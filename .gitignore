@@ -1,0 +1,11 @@
+assets/
+logdir/
+
+*.jpg
+*.jpeg
+*.png
+*.mp4
+*.tar
+*.pth
+*.pt
+__pycache__/
